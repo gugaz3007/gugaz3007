@@ -6,6 +6,8 @@
 </p>
 
 ---
+🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 📅 **Status:** Em andamento
 
 ### 🌱 Atualmente aprendendo:
 - HTML5 & CSS3  
