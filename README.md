@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou o Gustavo!</h1>
+<h3 align="center">🚀 Um desenvolvedor iniciante aprendendo a construir para a web 🌐</h3>
 
-<!--
-**gugaz3007/gugaz3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Olá+mundo!;Aprendendo+HTML%2C+CSS+e+JavaScript.;Empolgado+para+começar+minha+carreira+como+dev!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Atualmente aprendendo:
+- HTML5 & CSS3  
+- JavaScript
+
+---
+
+### 🧰 Linguagens e ferramentas:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript"/>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gugaz3007&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugaz3007&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 💬 Sobre mim:
+
+- 🧑‍💻 Estou começando na programação  
+- 🎯 Meu objetivo é me tornar um desenvolvedor full-stack 
+- 🎓 Aprendo melhor praticando na vida real  
+- 🧠 Eu acredito que: **"Todo dia é uma nova chance de evoluir."**
+
+---
+
+### 📫 Como me encontrar:
+
+- 📧 E-mail: gustavomessiasssantos01@gmail.com 
+- 🌐 Portfólio (em breve...)  
+- [![Linked](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-messias-dos-santos-097564218/)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/messiass07)
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gugaz3007&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=blue&style=flat" alt="gugaz3007" />
+</p>
